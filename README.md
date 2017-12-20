@@ -20,7 +20,7 @@ Files in training folder and markup folder must have the same names, for example
         0  0   0   0
         0  0   255 255
      
-**Example of file content:**
+**Example of txt-file content:**
         
         False
         205 144 40 40
