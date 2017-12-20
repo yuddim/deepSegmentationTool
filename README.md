@@ -8,6 +8,10 @@ Easy Image Segmentation Tool based on Fully convolutional network
 For training mode you need two folders:
 1) Training folder with images
 2) Markup folder with grayscale masked images, txt-files or xml-files
+Files in training folder and markup folder must have the same names, for example
+        
+        /train_img/img1.jpg
+        /train_markup/img1.xml
 
 **Fragment of masked image (255 - pixel of object, 0 - background pixel)**
         
